@@ -4,12 +4,12 @@ This tool is intended to batch download images from Pexels website in high resol
 
 It's designed to get the maximum resolution currently available.
 
-## Activate virtual environment and load packages:
+### Activate virtual environment and load packages:
 
 ``` sh
 source .venv/bin/activate
 ```
-## Or Install requirements
+### Or Install requirements
 ``` sh
 pip install -r requirements.txt
 ```
