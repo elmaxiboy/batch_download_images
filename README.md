@@ -2,7 +2,7 @@
 
 This tool is intended to batch download images from Pexels website in high resolution. It is part of a personal project to learn and implement Computer Vision models.
 
-It's designed to get the maximum resolution currently available.
+It's designed to get license-free images, with the best resolution currently available.
 
 ### Activate virtual environment and load packages:
 
