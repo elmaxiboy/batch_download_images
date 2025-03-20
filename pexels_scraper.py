@@ -106,6 +106,7 @@ def scrape_pexels_images(keyword,output_folder,max_scrolls=100,):
         logging.info("Interrupted by user...")
     finally:
         logging.info("Closing Selenium WebDriver")
+        driver.close()
         driver.quit()
         logging.info("Tschüss!")        
         
